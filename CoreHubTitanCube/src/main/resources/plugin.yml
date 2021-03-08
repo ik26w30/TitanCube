@@ -1,0 +1,7 @@
+name: CoreHub
+version: 0.1
+main: com.ik26w30.corehub.CoreHub
+author: ik26w30
+description: asd
+commands:
+  joinserver:
